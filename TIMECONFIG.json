@@ -1,0 +1,7 @@
+{
+  "project": "teachable-dl",
+  "aliases": ["teachable", "teachable downloader", "course downloader", "teachable-dl", "tdl"],
+  "created_at": "2026-03-01T08:00:00+08:00",
+  "sections": ["Cookie Decryption", "API Integration", "Download", "Documentation", "General"],
+  "default_section": "General"
+}

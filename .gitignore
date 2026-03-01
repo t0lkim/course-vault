@@ -1,0 +1,9 @@
+# Binary
+code/teachable-dl
+
+# macOS
+.DS_Store
+
+# Temp files
+*.tmp
+*.db
