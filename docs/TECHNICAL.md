@@ -228,7 +228,7 @@ The `CGO_ENABLED=1` flag is mandatory because `go-sqlite3` is a CGO wrapper arou
 
 ```bash
 # Build
-cd ~/MyAI/USER/PROJECTS/teachable-dl/code
+cd ~/course-vault
 CGO_ENABLED=1 go build -o teachable-dl .
 
 # Symlink to PATH

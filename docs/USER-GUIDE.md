@@ -51,14 +51,14 @@ You must be **logged into the Teachable course** in Arc. Visit the course page a
 ### Build from source
 
 ```bash
-cd ~/MyAI/USER/PROJECTS/teachable-dl/code
+cd ~/course-vault
 CGO_ENABLED=1 go build -o teachable-dl .
 ```
 
 ### Add to PATH
 
 ```bash
-ln -sf ~/MyAI/USER/PROJECTS/teachable-dl/code/teachable-dl ~/bin/teachable-dl
+ln -sf ~/course-vault/teachable-dl ~/bin/teachable-dl
 ```
 
 ### Verify
